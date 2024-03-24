@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file>qss/action_id.jpg</file>
+        <file>qss/action_location.jpg</file>
+        <file>qss/action_phone.jpg</file>
+        <file>qss/action_wechat.jpg</file>
+        <file>qss/action_refresh.jpg</file>
+        <file>qss/photo.jpg</file>
+        <file>qss/OIP-C.jpg</file>
+        <file>qss/background.jpg</file>
+    </qresource>
+</RCC>
